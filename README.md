@@ -1,2 +1,20 @@
 # tapreceipt
 A paperless receipt platform using NFC and QR codes.
+# TapReceipt
+
+TapReceipt is a paperless receipt platform that allows customers to access digital receipts using NFC tags or QR codes.
+
+## Problem
+
+Paper receipts are easily lost, create waste, and make tracking purchases difficult.
+
+## MVP Features
+
+- Merchants can create digital receipts
+- Each receipt has a unique link
+- Customers can open receipts using QR codes or NFC tags
+- Merchants can view previously created receipts
+
+## Project Status
+
+Day 1: Development environment and GitHub repository setup.
