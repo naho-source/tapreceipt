@@ -18,3 +18,5 @@ Paper receipts are easily lost, create waste, and make tracking purchases diffic
 ## Project Status
 
 Day 1: Development environment and GitHub repository setup.
+
+Day 2: Built the first HTML digital receipt with item quantities, prices, tax, and total.
