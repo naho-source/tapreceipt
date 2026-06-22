@@ -1,0 +1,64 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 40px 20px;
+  background-color: #f4f4f4;
+  font-family: Arial, sans-serif;
+  color: #222;
+}
+
+.receipt-container {
+  max-width: 650px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.receipt-card {
+  background-color: white;
+  padding: 30px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+table {
+  width: 100%;
+  margin-top: 20px;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+  text-align: left;
+}
+
+th {
+  background-color: #f7f7f7;
+}
+
+.total {
+  font-size: 20px;
+}
+
+@media (max-width: 600px) {
+  body {
+    padding: 20px 10px;
+  }
+
+  .receipt-card {
+    padding: 20px;
+  }
+
+  th,
+  td {
+    padding: 6px;
+    font-size: 14px;
+  }
+}
