@@ -92,3 +92,9 @@ th {
     border: none;
   }
 }
+.receipt-footer {
+  margin-top: 25px;
+  text-align: center;
+  color: #666;
+  font-size: 14px;
+}
