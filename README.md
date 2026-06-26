@@ -24,3 +24,5 @@ Day 2: Built the first HTML digital receipt with item quantities, prices, tax, a
 Day 3: Added basic styling and made the receipt layout work better on smaller screens
 
 Day 4: Added a JavaScript button for printing the digital receipt
+
+Day 5: Practiced using a Git branch and added store addresses and phone details to the receipt 
