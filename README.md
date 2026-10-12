@@ -26,3 +26,5 @@ Day 3: Added basic styling and made the receipt layout work better on smaller sc
 Day 4: Added a JavaScript button for printing the digital receipt
 
 Day 5: Practiced using a Git branch and added store addresses and phone details to the receipt 
+
+Day 6: Connected the receipt details and totals to JavaScript using one receipt object. Practiced updating HTML with the DOM so changing item names, quantities, or prices updates the receipt after refreshing. Tested the changes and pushed them to GitHub.
